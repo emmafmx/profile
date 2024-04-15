@@ -11,7 +11,7 @@ h1, h2 {
 }
 
 h1 {
-  font-size: 35px;
+  font-size: 40px;
 }
 
 h2 {
@@ -28,7 +28,7 @@ p {
 a {
   color: rgb(240, 126, 189);
   text-decoration: none;
-  font-size: 15px;
+  font-size: 25px;
   display: inline;
 }
 
@@ -66,8 +66,10 @@ ul {
 .button-pink {
 background-color:rgb(221, 5, 128);
 color: white;
+margin: auto;
 padding: 8px 15px;
 border-radius: 4px;
+font-size: 15px
 }
 
 @media (max-width: 960px) {
