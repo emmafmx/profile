@@ -42,7 +42,7 @@ a:hover {
 }
 
 .card {
-  margin: 20px;
+  margin: 15px;
   background-color: white;
   padding: 30px;
   width: 600px;
@@ -70,6 +70,12 @@ margin: auto;
 padding: 8px 15px;
 border-radius: 4px;
 font-size: 15px
+}
+
+#meme {
+  height: 200px;
+  border-radius: 5px;
+  border: none;
 }
 
 @media (max-width: 960px) {
